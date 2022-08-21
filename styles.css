@@ -1,0 +1,21 @@
+img {
+    height: auto;
+    width: 500px;
+
+}
+h1, h2, p, ul, ol {
+    font-family: 'Courier New', 'Lucida Console', monospace;
+}
+div {
+    width: 800px;
+    margin: 0 auto;
+}
+li {
+    list-style-position: inside;
+}
+.title {
+    font-size: 44px;
+}
+.name {
+    font-size: 33px;
+}
